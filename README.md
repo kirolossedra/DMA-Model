@@ -9,3 +9,11 @@
 
 ## Schematic for the Target DMA : 
 ![block_diagram_of_8237](https://user-images.githubusercontent.com/59807200/219954143-5e8248e2-2af6-44a0-9cce-6ba393fdd958.png)
+
+***
+
+## Signals Scope for different buses used to show the state of DMA and CPU mode and priorities 
+
+![2023-02-19 (1)](https://user-images.githubusercontent.com/59807200/219954524-cb2ed07f-2488-4108-bb44-e178777fca6e.png)
+
+
