@@ -6,3 +6,6 @@
 *first a disk , second a keypad with keys numbered from 1 to 8 the disk just copies four words from memory and then copies to the memory another four words in different locations then the user disconnects the disk , and then connects a keypad and presses key 4 (8’b00001000) this stores the number 4 to the address in memory assigned by DMA for the keypad which is originally programmed by the user 
 
 ***
+
+## Schematic for the Target DMA : 
+![block_diagram_of_8237](https://user-images.githubusercontent.com/59807200/219954143-5e8248e2-2af6-44a0-9cce-6ba393fdd958.png)
